@@ -1,15 +1,7 @@
-#1 нарисовать поле
-#2 нарисовать крестик и нолик
-#3 линию которая будет пересекать одинаковые переменные
 # import package
 import turtle
 from tkinter import mainloop
 from turtle import Turtle
-
-#turtle.seth(90)
-#turtle.penup()
-#turtle.forward(100)
-#turtle.pendown()
 
 def krestik():
     turtle.seth(138.5)
@@ -116,27 +108,5 @@ def strochka3():
 def strochka4():
     turtle.back(150)
     turtle.forward(300)
-
-#turtle.left(90)
-#turtle.forward(125)
-#turtle.left(180)
-#turtle.forward(125)
-#turtle.forward(125)
-
-
-
-#turtle.
-#turtle.
-#turtle.
-#turtle.
-#turtle.
-#turtle.
-
-
-
-
-
-
-
 
 mainloop()
